@@ -1,0 +1,17 @@
+C:\Users\DUBAI_KEY\source\repos\projectAPI\bin\Release\net8.0\projectAPI.deps.json
+C:\Users\DUBAI_KEY\source\repos\projectAPI\bin\Release\net8.0\projectAPI.runtimeconfig.json
+C:\Users\DUBAI_KEY\source\repos\projectAPI\bin\Release\net8.0\projectAPI.dll
+C:\Users\DUBAI_KEY\source\repos\projectAPI\bin\Release\net8.0\projectAPI.pdb
+C:\Users\DUBAI_KEY\source\repos\projectAPI\bin\Release\net8.0\projectAPI.Core.dll
+C:\Users\DUBAI_KEY\source\repos\projectAPI\bin\Release\net8.0\projectAPI.Core.pdb
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.csproj.AssemblyReference.cache
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.AssemblyInfoInputs.cache
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.AssemblyInfo.cs
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.csproj.CoreCompileInputs.cache
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.csproj.Up2Date
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.dll
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\refint\projectAPI.dll
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.pdb
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\projectAPI.genruntimeconfig.cache
+C:\Users\DUBAI_KEY\source\repos\projectAPI\obj\Release\net8.0\ref\projectAPI.dll

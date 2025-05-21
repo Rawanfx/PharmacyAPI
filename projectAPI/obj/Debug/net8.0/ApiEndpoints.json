@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "projectAPI.SecureData.SecureController",
+    "Method": "Data",
+    "RelativePath": "api/Secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,1637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\paymentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\paymentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\ipaymentsevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\enums\\ordersattus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\stripewebhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\shopingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\productorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\productorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\orderproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\iproductorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\productorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\shopingcartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\shopingcartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\ishopingcartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\setting\\stripesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\projectapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\projectapi.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\ratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\iaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\usermodelroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\authenticationrespose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\ijwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\services\\rateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:services\\rateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250427224042_mig8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250427224042_mig8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250520164301_mig31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250520164301_mig31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250520163706_mig30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250520163706_mig30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250520163043_addstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250520163043_addstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\irateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\result\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\categoryadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\projectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:projectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\productfromcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\dbcontext\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:dbcontext\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\projectapi.ui.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\topproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\83c0c2d9-59a4-4924-a90b-2812091b9864_neutrogenaface.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\d8e13722-8a25-453f-9880-33930fa86fa9_chlopheiramie.jfif||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\c8ac6713-952c-438d-ab77-bd52aebd5910.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\cad579b2-e9b9-4022-b2b1-a520d708327a.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\9f473184-9189-4973-ba2f-d526db003f71.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\6b0a107f-b8fa-4aeb-846e-4f1f6edded55_paracetampl.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\2b205642-e972-4bbf-9ec2-92216bd97d80_laroch.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\24852b49-50d4-4d57-b5d0-af748dedd509_laroch.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\01efe930-5361-471b-9139-2ad1cba384bd.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FD06-E5C5-4128-9926-5ECEA9D23AC6}|..\\projectAPI.UI\\projectAPI.UI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.ui\\wwwroot\\images\\malinda (1).jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\ifileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\shopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250430113140_mig11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250430113140_mig11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250422155502_addentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250422155502_addentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250425232402_mig6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250425232402_mig6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250427224042_mig8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250427224042_mig8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250427223408_mig7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250427223408_mig7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250425231919_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250425231919_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250422155502_addentities.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250422155502_addentities.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250421222538_mig5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250421222538_mig5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\projectapi.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\shopingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\dto\\externallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\enums\\usertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250427223408_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250427223408_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\enums\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578B1ED-6D42-4BE5-8E2D-4A5478170B68}|..\\projectAPI.Core\\projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250421222538_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250421222538_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\projectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:projectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductOrderDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250505234707_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250505234707_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi\\migrations\\20250505215655_mig20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F966DE-03AD-48E3-A206-06EC9A241522}|projectAPI.csproj|solutionrelative:migrations\\20250505215655_mig20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StripeWebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\StripeWebhookController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\StripeWebhookController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\StripeWebhookController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\StripeWebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:10:43.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\PaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\PaymentRequestDto.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\PaymentRequestDto.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\PaymentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:26:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:29:54.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\PaymentServices.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\PaymentServices.cs",
+              "RelativeToolTip": "Services\\PaymentServices.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:25:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPaymentSevices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IPaymentSevices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IPaymentSevices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IPaymentSevices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IPaymentSevices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:56:10.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StripeSetting.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Setting\\StripeSetting.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Setting\\StripeSetting.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Setting\\StripeSetting.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Setting\\StripeSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:39:01.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserModelRoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\UserModelRoleDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\UserModelRoleDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\UserModelRoleDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\UserModelRoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:47:01.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250520164301_mig31.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250520164301_mig31.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250520164301_mig31.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250520164301_mig31.cs",
+              "RelativeToolTip": "Migrations\\20250520164301_mig31.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:43:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250520163706_mig30.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250520163706_mig30.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250520163706_mig30.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250520163706_mig30.cs",
+              "RelativeToolTip": "Migrations\\20250520163706_mig30.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:37:14.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250520163043_addStatusCode.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250520163043_addStatusCode.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250520163043_addStatusCode.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250520163043_addStatusCode.cs",
+              "RelativeToolTip": "Migrations\\20250520163043_addStatusCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:30:47.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Result\\OperationResult.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Result\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Result\\OperationResult.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Result\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:39:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\CategoryAddDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\CategoryAddDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\CategoryAddDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\CategoryAddDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:15:46.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\JwtServices.cs",
+              "RelativeDocumentMoniker": "Services\\JwtServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\JwtServices.cs",
+              "RelativeToolTip": "Services\\JwtServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T20:53:32.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\AccountServices.cs",
+              "RelativeDocumentMoniker": "Services\\AccountServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\AccountServices.cs",
+              "RelativeToolTip": "Services\\AccountServices.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAzwDYAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T20:40:15.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAccountServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IAccountServices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IAccountServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IAccountServices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IAccountServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T20:19:11.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250505234707_mig22.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250505234707_mig22.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250505234707_mig22.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250505234707_mig22.cs",
+              "RelativeToolTip": "Migrations\\20250505234707_mig22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:47:13.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20250505215655_mig20.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250505215655_mig20.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250505215655_mig20.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250505215655_mig20.cs",
+              "RelativeToolTip": "Migrations\\20250505215655_mig20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:00:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RateServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\RateServices.cs",
+              "RelativeDocumentMoniker": "Services\\RateServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\RateServices.cs",
+              "RelativeToolTip": "Services\\RateServices.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:05:15.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRateServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IRateServices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IRateServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IRateServices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IRateServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:03:15.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RateController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\RateController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\RateController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\RateController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\RateController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:00:24.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "83c0c2d9-59a4-4924-a90b-2812091b9864_NeutrogenaFace.png",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\83c0c2d9-59a4-4924-a90b-2812091b9864_NeutrogenaFace.png",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\83c0c2d9-59a4-4924-a90b-2812091b9864_NeutrogenaFace.png",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\83c0c2d9-59a4-4924-a90b-2812091b9864_NeutrogenaFace.png",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\83c0c2d9-59a4-4924-a90b-2812091b9864_NeutrogenaFace.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T21:02:26.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "d8e13722-8a25-453f-9880-33930fa86fa9_chlopheiramie.jfif",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\d8e13722-8a25-453f-9880-33930fa86fa9_chlopheiramie.jfif",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\d8e13722-8a25-453f-9880-33930fa86fa9_chlopheiramie.jfif",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\d8e13722-8a25-453f-9880-33930fa86fa9_chlopheiramie.jfif",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\d8e13722-8a25-453f-9880-33930fa86fa9_chlopheiramie.jfif",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHTSURBVDhP5ZTNaxNBGIefyX6kadNtlrQSQ2IbbU0VSg9FsYr\u002BCYIXL7npv\u002BPZkx\u002BgBI89CFbxIgjqTUXUUils2lKb2pS0CSttPtbdnQ1mDiJoDoIP/PadHeZ9\u002Be07O8NA8TwvGv3DiOBRLpcHYrVUKoX1woJ/S8\u002BUHlaMuHnvz4zevSGNBcSiGJJKShWzUr3336kfpWB\u002BHM7PwIV5ESoYn83J\u002BTE/8VfqRyl4atxhSKsw7Dci0Om8YH5GcGXOL34SFgpweVZw/aLg2jkZLxV/fm6A0sPHT\u002B\u002BH0RpNYSVtpqdmWZhbDOcKGTXRNGTMpWXsoTjc2l5jbfM9q\u002BvvWHHe8uL1Mi/fLNNy69Du0GweYnhdRjQU9aM4dD5V0eOCxpBLwt7FiJtUvn5m6fkD7PQk5vAEiUSa5EiW6ewUi8VJMql4lC1RHJr\u002Bwph\u002BnHY7Q3M3jXmURbg24rtFo9r0tYe7s85h7QOrX57x8Mkdbj26HWVLFId24Sox4fnHx0MPNiauc\u002BZE2t9Jk9yERf6YRavTCe8AezRBy2/DUbcbZUsUhz2E339D0zB0ja1aA6e6z8pGjVcfN3C263zbd6ns1NmsHbB34EZZfQzy6IX/wsAvh/8J\u002BAEJXA4ZQrVaDAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-03T21:02:19.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "cad579b2-e9b9-4022-b2b1-a520d708327a.jpg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\cad579b2-e9b9-4022-b2b1-a520d708327a.jpg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\cad579b2-e9b9-4022-b2b1-a520d708327a.jpg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\cad579b2-e9b9-4022-b2b1-a520d708327a.jpg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\cad579b2-e9b9-4022-b2b1-a520d708327a.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T19:52:03.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "c8ac6713-952c-438d-ab77-bd52aebd5910.jpg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\c8ac6713-952c-438d-ab77-bd52aebd5910.jpg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\c8ac6713-952c-438d-ab77-bd52aebd5910.jpg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\c8ac6713-952c-438d-ab77-bd52aebd5910.jpg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\c8ac6713-952c-438d-ab77-bd52aebd5910.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T19:52:01.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "9f473184-9189-4973-ba2f-d526db003f71.jpg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\9f473184-9189-4973-ba2f-d526db003f71.jpg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\9f473184-9189-4973-ba2f-d526db003f71.jpg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\9f473184-9189-4973-ba2f-d526db003f71.jpg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\9f473184-9189-4973-ba2f-d526db003f71.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T19:51:59.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "6b0a107f-b8fa-4aeb-846e-4f1f6edded55_paracetampl.jpg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\6b0a107f-b8fa-4aeb-846e-4f1f6edded55_paracetampl.jpg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\6b0a107f-b8fa-4aeb-846e-4f1f6edded55_paracetampl.jpg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\6b0a107f-b8fa-4aeb-846e-4f1f6edded55_paracetampl.jpg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\6b0a107f-b8fa-4aeb-846e-4f1f6edded55_paracetampl.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T19:51:48.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "24852b49-50d4-4d57-b5d0-af748dedd509_laroch.jpeg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\24852b49-50d4-4d57-b5d0-af748dedd509_laroch.jpeg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\24852b49-50d4-4d57-b5d0-af748dedd509_laroch.jpeg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\24852b49-50d4-4d57-b5d0-af748dedd509_laroch.jpeg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\24852b49-50d4-4d57-b5d0-af748dedd509_laroch.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T19:51:42.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\appsettings.json",
+              "RelativeToolTip": "..\\projectAPI.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T08:04:11.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "malinda (1).jpg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\malinda (1).jpg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\malinda (1).jpg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\malinda (1).jpg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\malinda (1).jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T07:32:20.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "2b205642-e972-4bbf-9ec2-92216bd97d80_laroch.jpeg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\2b205642-e972-4bbf-9ec2-92216bd97d80_laroch.jpeg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\2b205642-e972-4bbf-9ec2-92216bd97d80_laroch.jpeg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\2b205642-e972-4bbf-9ec2-92216bd97d80_laroch.jpeg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\2b205642-e972-4bbf-9ec2-92216bd97d80_laroch.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-03T07:32:16.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "01efe930-5361-471b-9139-2ad1cba384bd.jpg",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\01efe930-5361-471b-9139-2ad1cba384bd.jpg",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\wwwroot\\images\\01efe930-5361-471b-9139-2ad1cba384bd.jpg",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\wwwroot\\images\\01efe930-5361-471b-9139-2ad1cba384bd.jpg",
+              "RelativeToolTip": "..\\projectAPI.UI\\wwwroot\\images\\01efe930-5361-471b-9139-2ad1cba384bd.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-02T20:22:33.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAIQCAAAAAAAAAAAEwJUCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-01T19:56:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductCreateDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:35:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\FileServices.cs",
+              "RelativeDocumentMoniker": "Services\\FileServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\FileServices.cs",
+              "RelativeToolTip": "Services\\FileServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:45:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IFileServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IFileServices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IFileServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IFileServices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IFileServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:42:50.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ProductOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductOrderDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\ProductOrderDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductOrderDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\ProductOrderDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:14:34.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductOrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\ProductOrderServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductOrderServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\ProductOrderServices.cs",
+              "RelativeToolTip": "Services\\ProductOrderServices.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:07:18.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\OrderServices.cs",
+              "RelativeToolTip": "Services\\OrderServices.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:49:09.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:45:48.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IOrderService.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:44:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductOrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductOrderServices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IProductOrderServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductOrderServices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IProductOrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:43:38.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\OrderProductController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\OrderProductController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\OrderProductController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\OrderProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:42:47.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250430113140_mig11.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250430113140_mig11.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250430113140_mig11.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250430113140_mig11.cs",
+              "RelativeToolTip": "Migrations\\20250430113140_mig11.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:31:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\DbContext\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DbContext\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\DbContext\\AppDbContextFactory.cs",
+              "RelativeToolTip": "DbContext\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:28:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANQUAAAAAAAAAAAEwOgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-30T11:08:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250427224042_mig8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427224042_mig8.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427224042_mig8.Designer.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427224042_mig8.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250427224042_mig8.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:17:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250425232402_mig6.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250425232402_mig6.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250425232402_mig6.Designer.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250425232402_mig6.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250425232402_mig6.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:16:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250427223408_mig7.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427223408_mig7.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427223408_mig7.Designer.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427223408_mig7.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250427223408_mig7.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:11:07.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20250425231919_image.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250425231919_image.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250425231919_image.Designer.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250425231919_image.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250425231919_image.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:10:59.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20250422155502_AddEntities.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250422155502_AddEntities.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250422155502_AddEntities.Designer.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250422155502_AddEntities.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250422155502_AddEntities.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:10:52.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20250421222538_mig5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250421222538_mig5.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250421222538_mig5.Designer.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250421222538_mig5.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250421222538_mig5.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:10:43.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "projectAPI.UI.http",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\projectAPI.UI.http",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\projectAPI.UI.http",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\projectAPI.UI.http",
+              "RelativeToolTip": "..\\projectAPI.UI\\projectAPI.UI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-30T08:52:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "projectAPI.Core",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\projectAPI.Core.csproj",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\projectAPI.Core.csproj",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\projectAPI.Core.csproj",
+              "RelativeToolTip": "..\\projectAPI.Core\\projectAPI.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T13:25:37.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\projectAPI.Core\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T13:24:38.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UserTypes.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Enums\\UserTypes.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Enums\\UserTypes.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Enums\\UserTypes.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Enums\\UserTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:09:43.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductFromCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductFromCartDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\ProductFromCartDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductFromCartDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\ProductFromCartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:41:15.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\ShopingCartController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\ShopingCartController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\ShopingCartController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\ShopingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:02:24.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250427224042_mig8.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427224042_mig8.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427224042_mig8.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427224042_mig8.cs",
+              "RelativeToolTip": "Migrations\\20250427224042_mig8.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:41:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20250427223408_mig7.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427223408_mig7.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427223408_mig7.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250427223408_mig7.cs",
+              "RelativeToolTip": "Migrations\\20250427223408_mig7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:38:38.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\ProductDetails.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductDetails.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\ProductDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:18:50.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TopProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\TopProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\TopProductDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\TopProductDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\TopProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:54:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\projectAPI.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAABhwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T00:12:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:06:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "Services\\CategoryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:56:35.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:54:53.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\ICategoryServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\ICategoryServices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\ICategoryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:54:07.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1AAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:29:09.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "projectAPI.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\projectAPI.UI.csproj",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\projectAPI.UI.csproj",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\projectAPI.UI.csproj",
+              "RelativeToolTip": "..\\projectAPI.UI\\projectAPI.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T23:16:25.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Program.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:15:45.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\projectAPI.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:14:09.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:31:25.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Enums\\Rate.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Enums\\Rate.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Enums\\Rate.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Enums\\Rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:38:09.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderSattus.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Enums\\OrderSattus.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Enums\\OrderSattus.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Enums\\OrderSattus.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Enums\\OrderSattus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:38:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopingCartServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\ShopingCartServices.cs",
+              "RelativeDocumentMoniker": "Services\\ShopingCartServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\ShopingCartServices.cs",
+              "RelativeToolTip": "Services\\ShopingCartServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:37:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAnwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:37:29.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ShopingCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ShopingCartDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\ShopingCartDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ShopingCartDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\ShopingCartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:03:28.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IShopingCartServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IShopingCartServices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IShopingCartServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IShopingCartServices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IShopingCartServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:26:21.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:48:13.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:48:09.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ExternalLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ExternalLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\ExternalLoginDto.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\ExternalLoginDto.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\ExternalLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:48:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthenticationRespose.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\AuthenticationRespose.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\DTO\\AuthenticationRespose.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\DTO\\AuthenticationRespose.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\DTO\\AuthenticationRespose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:48:03.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "projectAPI.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\projectAPI.Core.csproj",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\projectAPI.Core.csproj",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\projectAPI.Core.csproj",
+              "RelativeToolTip": "..\\projectAPI.Core\\projectAPI.Core.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T17:46:02.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:44:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ShopingCart.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\ShopingCart.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\ShopingCart.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\ShopingCart.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\ShopingCart.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:51.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:31.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductOrder.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\ProductOrder.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\ProductOrder.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\ProductOrder.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\ProductOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:16.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\Domain\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\Domain\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:00.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductService.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:40:19.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IJwtServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IJwtServices.cs",
+              "RelativeDocumentMoniker": "..\\projectAPI.Core\\ServiceCotract\\IJwtServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IJwtServices.cs",
+              "RelativeToolTip": "..\\projectAPI.Core\\ServiceCotract\\IJwtServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:39:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250422155502_AddEntities.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250422155502_AddEntities.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250422155502_AddEntities.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250422155502_AddEntities.cs",
+              "RelativeToolTip": "Migrations\\20250422155502_AddEntities.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwIUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:55:25.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:47:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20250421222538_mig5.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250421222538_mig5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250421222538_mig5.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Migrations\\20250421222538_mig5.cs",
+              "RelativeToolTip": "Migrations\\20250421222538_mig5.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:25:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:03:48.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "projectAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\projectAPI.csproj",
+              "RelativeDocumentMoniker": "projectAPI.csproj",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\projectAPI.csproj",
+              "RelativeToolTip": "projectAPI.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T14:41:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T14:39:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "projectAPI.http",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\projectAPI.http",
+              "RelativeDocumentMoniker": "projectAPI.http",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI\\projectAPI.http",
+              "RelativeToolTip": "projectAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-16T14:38:39.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
