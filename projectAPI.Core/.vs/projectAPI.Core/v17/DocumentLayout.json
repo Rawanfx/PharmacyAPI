@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|solutionrelative:servicecotract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\iproductorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|solutionrelative:servicecotract\\iproductorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|solutionrelative:servicecotract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\servicecotract\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|solutionrelative:servicecotract\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|c:\\users\\dubai_key\\source\\repos\\projectapi.core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB97C4F9-DF8A-46D6-BB18-4524FD312C35}|projectAPI.Core.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductOrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductOrderServices.cs",
+              "RelativeDocumentMoniker": "ServiceCotract\\IProductOrderServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductOrderServices.cs",
+              "RelativeToolTip": "ServiceCotract\\IProductOrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:56:25.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ServiceCotract\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IOrderService.cs",
+              "RelativeToolTip": "ServiceCotract\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:56:24.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "ServiceCotract\\ICategoryServices.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\ICategoryServices.cs",
+              "RelativeToolTip": "ServiceCotract\\ICategoryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:56:21.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductService.cs",
+              "RelativeDocumentMoniker": "ServiceCotract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\ServiceCotract\\IProductService.cs",
+              "RelativeToolTip": "ServiceCotract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:13:53.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:13:26.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\projectAPI.Core\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:11:07.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
